@@ -23,4 +23,4 @@ Feel free to add to this list by opening an Issue/Pull Request.
 | wiki | wiki | --- |
 | Creator Name | --- |
 | Search Things | --- |
-| Greet you | --- |
+| Greet you | -- |
