@@ -20,4 +20,7 @@ Feel free to add to this list by opening an Issue/Pull Request.
 | thanks | Thank you! | --- |
 | time | time of your device | --- |
 | weather | weather in london | Powered by WeatherAPI |
-| wiki | wiki html | --- |
+| wiki | wiki | --- |
+| Creator Name | --- |
+| Search Things | --- |
+| Greet you | --- |
